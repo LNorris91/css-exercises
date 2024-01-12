@@ -1,0 +1,14 @@
+.odd {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.adjfont {font-size: 24px;}
+#title1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+#title2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
